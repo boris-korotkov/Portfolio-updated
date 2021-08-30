@@ -1,2 +1,2 @@
-# Boris Korotkov. 
+# Boris Korotkov
 ## Data Analytics Portfolio
