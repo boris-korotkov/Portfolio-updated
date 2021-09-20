@@ -28,4 +28,3 @@
 
    `Toolset: Scala, Apache Spark MLlib, Databricks`
 
-4. H2O
