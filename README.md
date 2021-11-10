@@ -44,7 +44,7 @@
 
    
 5. #### Multi-Label classification using Text Analytics and Azure Machine Learning (In progress)
-   The Multi-Label classification problem was solved using Natural Language Processing technique and Neural Network. The model was developed using Azure Python SDK and deployed as a WebService with the REST API. The further details and code will be added later. 
+   The Multi-Label classification problem was solved using Natural Language Processing technique and Neural Network. The model was developed in Azure Machine Learning environment using Python SDK and deployed as a WebService with the REST API. The further details and code will be added later. 
 
    `Toolset: Azure Machine Learning, Azure Python SDK, SKLearn, NLTK, Keras`
  
