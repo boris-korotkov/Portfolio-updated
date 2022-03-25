@@ -43,7 +43,7 @@
    `Toolset: Python, Colab, Auto-sklearn, TPOT, FLAML`
 
 5. #### Multi-Label classification using Text Analytics and Azure Machine Learning 
-   The Multi-Label classification problem was solved using Natural Language Processing technique and Neural Network. The model was developed in Azure Machine Learning environment using Python SDK and deployed as a WebService with the REST API. The further details and code will be added later. 
+   The Multi-Label classification problem was solved using Natural Language Processing technique and Neural Network. The model was developed in Azure Machine Learning environment using Python SDK and deployed as a WebService with the REST API. 
 
    The Jupyter Notebook: https://github.com/lastdruid/Portfolio/blob/main/AzureML/Multi-label%20classification/Model%20Training%20and%20Deployment.ipynb
    
